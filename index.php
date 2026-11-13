@@ -8,7 +8,7 @@
 
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.9/dist/css/bootstrap.min.css">
 
-    <title>Sistema de Feedback</title>
+    <title>Sistema de Feedback2</title>
 </head>
 
 <body class="bg-light">
