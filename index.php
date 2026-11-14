@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@6.0.0-alpha.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-B/GM4XqrwHnWXNOWMbloTmrYXZg10cakYGmpfsR/bbzQ6JAJI4ihuyADKLnBgrCe" crossorigin="anonymous">
-    <title>Document</title>
+    <title>fullstack</title>
 </head>
 <body>
     <?php
@@ -17,7 +17,7 @@
     
     
     <div class="d-flex justify-content-center align-items-center min-vh-100">
-        <form action="#" method="POST" class="w-100">
+        <form action="processa.php" method="POST" class="w-100">
 
             <div>
                 <label for="nome" class="form-label w-50 mx-auto d-block">
